@@ -1,0 +1,35 @@
+body{
+    background: rgb(153, 41, 41);
+    
+}
+
+.jumbotron{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar{
+    font-family: 'cursive','arial';
+    font-size: larger;
+}
+.footer{
+    font-size: xx-large;
+    text-align: center;
+    background: #fff;
+    color: blueviolet;
+}
+.p{
+    color: #fff;
+}
+
+
+/*--------====---mediaqueries-------------------------------------------------------------*/
+ @media screen and (max-width:1053px){
+    .ul{
+        text-align: left;
+  
+
+} 
+}
+    
+
+
